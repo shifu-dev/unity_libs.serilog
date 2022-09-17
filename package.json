@@ -1,0 +1,11 @@
+{
+  "name": "com.shifu.game-framework.serilog",
+  "version": "0.1.0",
+  "displayName": "GameFramework.Serilog",
+  "description": "Serilog extension for Unity-GameFramework",
+  "keywords": [
+    "framework",
+    "library",
+    "logging"
+  ]
+}

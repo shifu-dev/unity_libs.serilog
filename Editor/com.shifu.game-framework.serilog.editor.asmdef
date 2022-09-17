@@ -1,0 +1,8 @@
+{
+	"name": "com.shifu.game-framework.serilog.editor",
+	"references":
+	[
+		"com.shifu.game-framework.serilog",
+		"com.shifu.game-framework.editor"
+	]
+}
