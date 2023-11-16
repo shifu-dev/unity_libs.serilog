@@ -1,2 +1,2 @@
-# Unity-GameFramework.Serilog
-Serilog integration for Unity-GameFramework.
+# UnityLibs.Serilog
+Serilog integration for UnityLibs.
